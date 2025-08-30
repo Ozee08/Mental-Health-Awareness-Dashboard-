@@ -1,43 +1,81 @@
-# Mental Health Awareness Dashboard
+# 🌍 Mental Health Awareness Dashboard  
 
-This project features an interactive Power BI dashboard that highlights **global workplace mental health trends**. The goal is to provide insights into treatment rates, gender distribution, age demographics, remote work impact, and global patterns affecting mental health in organizations.
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi) 
+![Data Analytics](https://img.shields.io/badge/Skill-Data%20Analytics-blue) 
+![Data Visualization](https://img.shields.io/badge/Skill-Data%20Visualization-brightgreen) 
+![GitHub](https://img.shields.io/badge/Hosted%20On-GitHub-black?logo=github)  
 
----
-
-## 📊 Key Highlights
-- **Total Employees Analyzed:** 126K
-- **Treatment Rate:** 51%
-- **Average Age:** 32 years
-- **Family History Rate:** 39%
+**Unlocking Insights for Workplace Well-being with Data!**  
+This project demonstrates **data analysis, visualization, and storytelling skills** by exploring global trends in **workplace mental health** using **Power BI**.
 
 ---
 
-## ✅ Dashboard Features
-- Mental health survey by **gender**
-- **Age band distribution** across employees
-- Mental health status among **remote workers**
-- Global map showing countries with mental health issues
-- Analysis of whether mental health issues affect work performance
+## 📚 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [✨ Key Highlights](#-key-highlights)
+- [🖼 Dashboard Preview](#-dashboard-preview)
+- [🛠 Tools & Skills](#-tools--skills)
+- [📌 Why This Matters](#-why-this-matters)
+- [🚀 Future Enhancements](#-future-enhancements)
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](Screenshot%20for%20mental%20health%20issues.png)
+## 📌 Project Overview  
+Mental health significantly impacts **employee performance and organizational productivity**.  
+This **interactive Power BI dashboard** visualizes mental health trends across **126,000 employees globally**, providing insights into:
+- Gender-based analysis
+- Remote work and mental health correlation
+- Age band distribution
+- Impact of mental health on work performance
+- Global map of mental health concerns
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** for dashboard creation
-- **Data Visualization** best practices
+## ✨ Key Highlights  
+✔ **126K Employees Analyzed** – Rich dataset for meaningful insights  
+✔ **51% Treatment Rate** – How many employees seek help  
+✔ **39% Family History Rate** – Understanding inherited factors  
+✔ **Remote Work & Mental Health** – Correlation insights  
+✔ **Performance Impact** – How mental health influences productivity  
 
 ---
 
-## 📌 How to Use
-- Download the Power BI `.pbix` file (if provided) or view the screenshot.
-- Explore visual insights to understand mental health trends in the workplace.
+## 🖼 Dashboard Preview  
+![Mental Health Dashboard](Screenshot%20for%20mental%20health%20issues.png)
 
 ---
 
-## 🚀 Future Enhancements
-- Adding interactive filters for region and employee band
-- Integration with live data sources for real-time updates
+## 🛠 Tools & Skills  
+### 🔑 **Skills Demonstrated**
+- **Data Cleaning & Preparation**  
+- **Data Visualization & Storytelling**  
+- **Business Intelligence Reporting**  
+- **Analytical Thinking & Insight Generation**  
+
+### 🛠 **Tools Used**
+- **Power BI** – Dashboard design & visualization  
+- **DAX** – Calculations & measures  
+- **Data Analytics Techniques**  
+
+---
+
+## 📌 Why This Matters  
+Mental health challenges affect **productivity, engagement, and retention**.  
+This dashboard helps:
+- ✅ **HR Teams**: Design better wellness programs  
+- ✅ **Business Leaders**: Make data-driven decisions  
+- ✅ **Researchers**: Analyze workplace psychology trends  
+
+---
+
+## 🚀 Future Enhancements  
+- 🌐 Add **real-time data integration**  
+- 📱 Optimize dashboard for **mobile view**  
+- 📊 Build **predictive analytics models** for early detection  
+
+---
+
+💡 *This project showcases my ability to transform raw data into actionable insights for organizational well-being.*  
+**Looking to hire a Data Analyst? Let’s connect!**  
+
+---
